@@ -1,6 +1,6 @@
 
 
-+### GENEREAL INTRODUCTION
+## GENEREAL INTRODUCTION
 People participate in various crowsfunding projects. So they extend loans to small companies (i.e. they invest).
 They do this on platforms like: 
 www.fundingcircle.com
@@ -34,7 +34,7 @@ With this info our model will the have to figure out:
 3. What is the maturity of each loan.
 
 
-########## MORE INTRODUCTION
+## MORE INTRODUCTION
 
 Goal of code is to figure out which set of loans (lots of columns) best fit the observed cashflow (1 column).
 
